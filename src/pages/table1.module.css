@@ -1,0 +1,27 @@
+h2{
+  text-align: center;
+}
+.link{
+  font-size: 2rem;
+  text-decoration: none;
+  border: 1px solid rgba(0, 0, 0, 0.664);
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.664);
+  color: white;
+  padding: 5px;
+}
+.table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+}
+
+.td, .th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.tr:nth-child(even) {
+  background-color: #dddddd;
+}
